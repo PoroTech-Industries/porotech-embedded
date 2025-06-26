@@ -20,7 +20,7 @@ Arduino ist nur für das Auslegen der Sensoren und überträgt Daten per Seriell
 
 | Sensor | Wichtigkeit | Status       | Begründung                             |
 |-|-------------|--------------|----------------------------------------|
-| F249 Encoder | Niedring    | Funktioniert | Nur für schöne visualisierung          |
+| F249 Encoder | Niedrig    | Funktioniert | Nur für schöne visualisierung          |
 | MPU6050 | Hoch        | Meh          | Kp ob richtig geht ohne Kompass eh emo |
 | GY-2761 | Hoch        | Meh          | Yaw daten sind übel emo                |
 | HC-SR04 | Mittel      | Funktioniert | Erkennt sachen                         |
